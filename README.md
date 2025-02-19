@@ -5,9 +5,7 @@
  <h2>📸 Project Demo</h2>
  <p>Watch the video to see how the project works! 👇</p>
    
-
-
-
+https://github.com/user-attachments/assets/40433c18-e28d-40fa-9080-565ccf81abc4
 
 <h2>🛠️ Technologies and Libraries Used</h2>
  <ul>
